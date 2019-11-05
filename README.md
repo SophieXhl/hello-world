@@ -1,2 +1,7 @@
 # hello-world
-The first repository
+
+Hi everyone!
+
+I'm new here. I'm stilling learning Python and data science.
+
+Nice to meet you.
